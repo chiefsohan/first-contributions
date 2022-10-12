@@ -9,3 +9,4 @@ Enter your name and GitHub URL below in this format:
 
 
 - [Tarctic](https://github.com/Tarctic)
+- [Chief](https://github.com/chiefsohan)
